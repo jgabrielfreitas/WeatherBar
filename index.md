@@ -19,7 +19,7 @@ Menu Bar apps are great for creating quick utilities. Because the UI is fairly c
 
 ## Prerequisites
 
-You should have the latest stable version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). At the time of this writing, that is 7.0. As Swift is a language still under heavy development, it's not unlikely that the code written here may fail to compile on earlier or later versions. I'll try to keep this up-to-date, but if you find any errors, please [let me know](mailto:brad@footle.org).
+You should have the latest stable version of [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). At the time of this writing, that is 7.0. As Swift is a language still under heavy development, it's not unlikely that the code written here may fail to compile on earlier or later versions. I'll try to keep this up-to-date, but if you find any errors, please [create an issue](https://github.com/bgreenlee/WeatherBar/issues).
 
 ## Let's Get Something Running
 
